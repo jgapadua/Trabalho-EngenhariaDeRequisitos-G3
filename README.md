@@ -7,7 +7,7 @@
 * [Nome](github)
 * [João Gabriel Amorim Pádua](https://github.com/jgapadua)
 * [Nome](github)
-* [Talisson Augusto Prudêncio Santos]([github](https://github.com/jgapadua/Trabalho-EngenhariaDeRequisitos-G3))
+* [Talisson Augusto Prudêncio Santos]((https://github.com/jgapadua/Trabalho-EngenhariaDeRequisitos-G3))
 * [Nome](github)
 
 ## Professores responsáveis
