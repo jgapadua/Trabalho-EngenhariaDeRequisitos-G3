@@ -4,7 +4,7 @@
 
 ## Alunos integrantes da equipe
 
-* [Nome](github)
+* Alice Rodrigues de Oliveira 
 * [João Gabriel Amorim Pádua](https://github.com/jgapadua)
 * [Nome](github)
 * [Talisson Augusto Prudêncio Santos](https://github.com/Nisuk3)
