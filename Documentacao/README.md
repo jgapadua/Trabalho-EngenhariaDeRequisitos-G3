@@ -31,6 +31,7 @@ Antecipação e Consistência, dentre outras citadas por Pressman (2021)
 
 _**Requisitos funcionais**_
 - **Host do Projeto Social**
+ 
 **Cadastrar de Host**: O sistema deve acolher novos organizadores de projetos sociais, permitindo que eles criem seu perfil com informações pessoais básicas, como nome, telefone, e-mail e senha.
 
 **Editar Perfil de Host**: O sistema deve permitir que os organizadores expressem sua individualidade, possibilitando a atualização da foto de perfil e de suas informações.
@@ -47,7 +48,7 @@ _**Requisitos funcionais**_
 
 **Comunicar com Voluntários**: O sistema deve oferecer um meio de comunicação entre o host e os voluntários do projeto.
 
-
+                  
 - **Voluntário do Projeto Social**
 **Cadastrar voluntário**: O sistema deve permitir que voluntários se cadastrem fornecendo informações pessoais.
 
@@ -58,8 +59,8 @@ _**Requisitos funcionais**_
 **Notificar eventos**: O sistema deve notificar os voluntários sobre os eventos dos quais foram escalados.
 
 **Comunicar e feedback**: O sistema deve permitir que voluntários enviem mensagens, deixem comentários nos projetos e os avaliem.
-
-
+              
+                          
 - **ONG**
 **Cadastrar de ONG:** O sistema deve permitir que ONGs se cadastrem fornecendo informações como nome, telefone, e-mail, endereço completo e senha.
 
