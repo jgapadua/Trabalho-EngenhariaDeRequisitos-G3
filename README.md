@@ -4,11 +4,11 @@
 
 ## Alunos integrantes da equipe
 
-* Alice Rodrigues de Oliveira 
+* [Alice Rodrigues de Oliveira](https://github.com/aalice-Rodrigues)
 * [João Gabriel Amorim Pádua](https://github.com/jgapadua)
-* [Nome](github)
+* [Sthel Felipe Torres](https://github.com/SthelTorres)
 * [Talisson Augusto Prudêncio Santos](https://github.com/Nisuk3)
-* [Nome](github)
+* [Marcus Vinicius Pereira Junior](github)
 
 ## Professores responsáveis
 
