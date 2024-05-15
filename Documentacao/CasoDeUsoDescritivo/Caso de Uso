@@ -1,0 +1,42 @@
+
+UC01: Cadastrar Usuário
+* Ator Principal: Usuário (Host, Voluntário, ONG)
+* Pré-condições: Nenhuma
+* Fluxo Principal:
+    1. O usuário acessa a opção de cadastro no aplicativo.
+    2. O usuário preenche os dados necessários como nome, telefone, e-mail, endereço completo e senha.
+    3. O sistema valida os dados fornecidos.
+    4. O sistema registra o novo usuário.
+    5. O sistema envia um e-mail de confirmação ao usuário.
+Fluxo alternativo - pode se cadastrar
+UC02: Gerenciar Projeto Social
+* Ator Principal: Host do Projeto Social
+* Pré-condições: Usuário deve estar cadastrado e logado como Host.
+* Fluxo Principal:
+    1. O Host acessa a funcionalidade para cadastrar um novo projeto social.
+    2. O Host insere informações sobre o projeto como nome, descrição, datas de início e fim, status e endereço completo.
+    3. O Host pode enviar convites para potenciais voluntários via e-mail ou WhatsApp.
+    4. O Host pode adicionar eventos ao projeto, especificando data, horário e descrição.
+    5. O Host pode inserir fotos dos eventos para documentação e histórico.
+    6. O Host tem a opção de editar ou excluir o projeto.
+    7. O Host pode enviar mensagens diretas aos voluntários do projeto.
+UC03: Participar de Projetos Sociais
+* Ator Principal: Voluntário
+* Pré-condições: Voluntário deve estar cadastrado e logado no sistema.
+* Fluxo Principal:
+    1. O voluntário recebe convites para participar de projetos sociais.
+    2. O voluntário pode aceitar ou recusar convites.
+    3. O voluntário acessa um painel com uma lista dos projetos dos quais faz parte.
+    4. O voluntário pode visualizar detalhes dos projetos e eventos associados.
+    5. O voluntário recebe notificações sobre novos eventos nos projetos participantes.
+    6. O voluntário pode enviar mensagens para o Host do projeto e outros voluntários.
+    7. O voluntário pode comentar e avaliar os projetos e eventos.
+UC04: Divulgar e Gerenciar Atividades da ONG
+* Ator Principal: ONG
+* Pré-condições: ONG deve estar cadastrada e logada no sistema.
+* Fluxo Principal:
+    1. A ONG cadastra e atualiza informações sobre suas atividades e eventos.
+    2. A ONG divulga vagas para trabalhos voluntários.
+    3. A ONG gerencia a página de perfil, incluindo edição de fotos e informações.
+    4. A ONG pode receber e responder a mensagens de interessados em voluntariado.
+    5. A ONG pode atualizar os dados de seu perfil e alterar informações sobre eventos e atividades em andamento.
