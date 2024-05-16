@@ -7,7 +7,6 @@
 * [Alice Rodrigues de Oliveira](https://github.com/aalice-Rodrigues)
 * [João Gabriel Amorim Pádua](https://github.com/jgapadua)
 * [Sthel Felipe Torres](https://github.com/SthelTorres)
-* [Talisson Augusto Prudêncio Santos](https://github.com/Nisuk3)
 
 ## Professores responsáveis
 
