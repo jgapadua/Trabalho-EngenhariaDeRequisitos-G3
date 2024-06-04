@@ -1,0 +1,38 @@
+@startuml
+[*] --> Inicial
+Inicial --> ProjetoCadastrado : Cadastrar Projeto
+ProjetoCadastrado --> ProjetoEditado : Editar Projeto
+ProjetoCadastrado --> ProjetoExcluido : Excluir Projeto
+ProjetoCadastrado --> EventosAdicionados : Adicionar Evento
+EventosAdicionados --> FotosInseridas : Inserir Fotos
+ProjetoCadastrado --> ConvitesEnviados : Enviar Convites
+ProjetoEditado --> ConvitesEnviados : Enviar Convites
+EventosAdicionados --> ConvitesEnviados : Enviar Convites
+ProjetoCadastrado --> MensagensEnviadas : Enviar Mensagens
+ProjetoEditado --> MensagensEnviadas : Enviar Mensagens
+EventosAdicionados --> MensagensEnviadas : Enviar Mensagens
+
+state Inicial {
+}
+
+state ProjetoCadastrado {
+}
+
+state ProjetoEditado {
+}
+
+state ProjetoExcluido {
+}
+
+state EventosAdicionados {
+}
+
+state FotosInseridas {
+}
+
+state ConvitesEnviados {
+}
+
+state MensagensEnviadas {
+}
+@enduml
