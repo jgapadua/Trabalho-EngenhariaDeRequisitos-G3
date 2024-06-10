@@ -4,16 +4,11 @@ Este repositório contém diagramas e arquivos PlantUML para o caso de uso "Gere
 
 ## Diagramas de Estado
 
-### Diagrama de Estado 1
+### Diagrama de Estado 
 ![Diagrama de Estado 1](1.png)
 
-### Diagrama de Estado 2
-![Diagrama de Estado 2](2.png)
 
 ## Arquivos PlantUML
 
-### Arquivo PlantUML 1
+### Arquivo PlantUML 
 [Clique aqui para ver o arquivo PlantUML 1](1.puml)
-
-### Arquivo PlantUML 2
-[Clique aqui para ver o arquivo PlantUML 2](2.puml)
